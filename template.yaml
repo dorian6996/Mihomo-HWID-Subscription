@@ -325,6 +325,8 @@ rules:
   - RULE-SET,ru_blocked,Заблокировано в РФ
   - RULE-SET,politic,Заблокировано в РФ
   - DOMAIN-SUFFIX,cdn-service.space,Заблокировано в РФ
+  - DOMAIN-SUFFIX,kino.watch,Заблокировано в РФ
+  - DOMAIN-SUFFIX,teleos.club,Заблокировано в РФ
   - DOMAIN-SUFFIX,pushbr.com,Заблокировано в РФ
   - DOMAIN-SUFFIX,truenas.com,Заблокировано в РФ
   - DOMAIN-SUFFIX,truenasconnect.net,Заблокировано в РФ
